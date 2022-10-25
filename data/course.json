@@ -1,26 +1,50 @@
 [
   {
     "id": "01",
-    "title": "Animation"
+    "title": "Animation",
+    "photo": "https://images.unsplash.com/photo-1579833981331-676fa2bae313?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "duration": 36,
+    "subscribe": 28,
+    "titleName": "Looping Animated Scenes in Adobe After Effects"
   },
   {
     "id": "02",
-    "title": "Graphic Design"
+    "title": "Graphic Design",
+    "photo": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "duration": 35,
+    "subscribe": 35,
+    "titleName": "Photoshop Masterclass for Graphic Designers"
   },
   {
     "id": "03",
-    "title": "Music"
+    "title": "Music",
+    "photo": "https://images.unsplash.com/photo-1477233534935-f5e6fe7c1159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "duration": 32,
+    "subscribe": 30,
+    "titleName": "Ableton Live 11 For Beginners | How to Make Your First Track"
   },
   {
     "id": "04",
-    "title": "Photography"
+    "title": "Photography",
+    "photo": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "duration": 30,
+    "subscribe": 22,
+    "titleName": "DSLR and Mirrorless: The Fundamentals of Photography"
   },
   {
     "id": "05",
-    "title": "UI UX Design"
+    "title": "UI UX Design",
+    "photo": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "duration": 24,
+    "subscribe": 34,
+    "titleName": "Learn our UI design process - Prototype apps & websites."
   },
   {
     "id": "06",
-    "title": "Web Development"
+    "title": "Web Development",
+    "photo": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "duration": 20,
+    "subscribe": 35,
+    "titleName": "HTML , CSS & JS Coding for Beginners"
   }
 ]
