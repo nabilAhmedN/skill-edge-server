@@ -23,6 +23,13 @@ app.get("/courses/:id", (req, res) => {
     res.send(courseData);
 });
 
+app.get("/premiumCourses/:id", (req, res) => {
+      const id = req.params.id;
+      const premCourseData = coursesFeat.find((n) => n.id === id);
+
+      res.send(premCourseData);
+});
+
 app.listen(port, () => {
   console.log(" running on port", port);
 });
